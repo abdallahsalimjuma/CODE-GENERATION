@@ -61,27 +61,27 @@ router.get('/', async (req, res) => {
 *_Made With love by fredietech♻️_*
 ______________________________________
 ╔════◇
-║ FOR ALL LUCKY_MD BOT
+║ FOR ALL DULLAH-MD-BOT
 ║ _Thanks for your support._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
-║⬡ *Ytube:* _youtube.com/@freeonlinetvT1_
-║⬡ *wa-me:* _https://wa.me/255752593977_
-║⬡ *wa-me:* _https://wa.me/255620814108_
-║⬡ *t-me:* _https://t.me/freditech_
+║⬡ *Ytube:* _youtube.com/@herokuplatform_
+║⬡ *wa-me:* _https://wa.me/255756715126_
+║⬡ *wa-me:* _https://wa.me/255716945971_
+║⬡ *t-me:* _https://t.me/Dullah md_
 ║
 ║⬡MY bot Repos⬡
 ║
-║⬡ *LUCKY bot:* _https://github.com/Fred1e/LUCKY_MD_
-║⬡ *My Github:* _https://github.com/Fred1e_
+║⬡ *Dullah md bot:* _https://github.com/abdallahsalimjuma/Dullah_MD_
+║⬡ *My Github:* _https://github.com/Dullah md_
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *WATSAPP:* _https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f_
+║⬡ *WATSAPP:* _https://whatsapp.com/channel/CP2BirU5pBj04cXXgEbfuv_
 ║⬡ *TELEGRAM:* _https://t.me/+u3zlb5y6OfxhOTdk_
 ║
-║⬡ *©Copyright* _Fredi-Ezra|Kingfredie
+║⬡ *©Copyright* _Dullah-md|Dullah-md-bot
 ╚══════════════════════════════════╝
 _____________________________________
 
