@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 *_QR Code Connected*
-*_Made With by Fredie♻️_*
+*_Made With by Dullah md♻️_*
 ______________________________________
 ╔════◇
 ║ FOR ALL DULLAH MD BOT
