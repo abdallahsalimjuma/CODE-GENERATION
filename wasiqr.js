@@ -75,7 +75,7 @@ ______________________________________
 ║
 ║⬡MY bot Repos⬡
 ║
-║⬡ *LUCKY_MD:* _https://github.com/abdallahsalimjuma/Dullah_MD_
+║⬡ *DULLAH_MD:* _https://github.com/abdallahsalimjuma/Dullah_MD_
 ║⬡ *My Github:* _https://github.com/DULLAH MD_
 ║
 ║⬡Support channels⬡
