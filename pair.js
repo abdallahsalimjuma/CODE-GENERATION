@@ -74,7 +74,7 @@ ______________________________________
 ║⬡MY bot Repos⬡
 ║
 ║⬡ *Dullah md bot:* _https://github.com/abdallahsalimjuma/Dullah_MD_
-║⬡ *My Github:* _https://github.com/Dullah md_
+║⬡ *My Github:* _https://github.com/abdallahsalimjuma_
 ║
 ║⬡Support channels⬡
 ║
