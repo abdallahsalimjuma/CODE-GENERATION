@@ -58,31 +58,31 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_Pair Code Connected*
-*_Made With love by fredietech♻️_*
+*_Made With love by Dullah-md♻️_*
 ❖⊷━━━━━━━━━━━━━━━━━━━━━━━━⊷❖
 ╭──━━━━━━◇✣❖◇━━━━━━━───❂
-┃ FOR ALL LUCKY_MD BOT
+┃ FOR ALL DULLAH_MD BOT
 ┃ _Thanks for your support._
 ╰──━━━━━━◇✣❖◇━━━━━━━───❂
   ▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒
 ╭──━━━━━━◇✣❖◇━━━━━━━───❂
 ┃❖  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
-┃⬡ *Ytube:* _youtube.com/@freeonlinetvT1_
-┃⬡ *wa-me:* _https://wa.me/255752593977_
-┃⬡ *wa-me:* _https://wa.me/255620814108_
+┃⬡ *Ytube:* _youtube.com/@herokuplatform_
+┃⬡ *wa-me:* _https://wa.me/255716945971_
+┃⬡ *wa-me:* _https://wa.me/255756715126_
 ┃⬡ *t-me:* _https://t.me/freditech_
 ┃
 ┃⬡MY bot Repos⬡
 ┃
-┃⬡ *LUCKY bot:* _https://github.com/Fred1e/LUCKY_MD_
-┃⬡ *My Github:* _https://github.com/Fred1e_
+┃⬡ *LUCKY bot:* _https://github.com/abdallahsalimjuma/DULLAH_MD_
+┃⬡ *My Github:* _https://github.com/abdallahsalimjuma_
 ┃
 ┃⬡Support channels⬡
 ┃
 ┃⬡ *WATSAPP:* _https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f_
 ┃⬡ *TELEGRAM:* _https://t.me/+u3zlb5y6OfxhOTdk_
 ┃
-┃⬡ *©Copyright* _Fredi-Ezra|Kingfredie
+┃⬡ *©Copyright* _DULLAH-MD|CRAZYBOT
 ╰───━━━━━━◇✣❖◇━━━━━━━───❂
 ▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒
 ✣➻⊷━━━━━━━━━━━━━━━━━━━━━━━━⊷➻✣
