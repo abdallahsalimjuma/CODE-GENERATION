@@ -1,8 +1,8 @@
 {
-    "name": "DULLAH MD Session Generator",
-    "description": "I'm Web Session Generator by DULLAH MD Me DULLAH MD BOT",
+    "name": "CRAZY-BOT-V4 Session Generator",
+    "description": "I'm Web Session Generator by CRAZY BOT Me CRAZT BOT V4",
     "logo": "",
-    "repository": "https://github.com/abdallahsalimjuma/DULLAH_MD",
+    "repository": "https://github.com/abdallahsalimjuma/CRAZY-BOT-V4",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
