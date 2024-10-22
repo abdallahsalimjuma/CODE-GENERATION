@@ -80,8 +80,8 @@ ______________________________________
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *WATSAPP:* _https://whatsapp.com/channel/._
-║⬡ *WA GROUP:* _https://chat.whatsapp.com/HdrwMccSFIaB5Zi7s9BzN9_
+║⬡ *WATSAPP:* _https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx_
+║⬡ *WA GROUP:* _https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx_
 ║⬡ *TELEGRAM:* _https://t.me/+u3zlb5y6OfxhOTdk_
 ║
 ║⬡ *©Copyright* _Dullah-Md|Mr Dullah_
