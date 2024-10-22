@@ -16,7 +16,7 @@
 
 [`ℹ️Contact Owner`](https://wa.me/255716945971?text=👋+bro+I+want+your+help+please🙏)
 
-[!`FORK KINGFREDIE`](https://github.com/abdallahsalimjuma/CODE-GENERATION/fork) 
+[!`FORK DULLAH MD`](https://github.com/abdallahsalimjuma/CODE-GENERATION/fork) 
 
 Now Deploy
     <br>
