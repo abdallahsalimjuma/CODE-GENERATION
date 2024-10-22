@@ -70,7 +70,7 @@ router.get('/', async (req, res) => {
 ┃⬡ *Ytube:* _youtube.com/@herokuplatform_
 ┃⬡ *wa-me:* _https://wa.me/255716945971_
 ┃⬡ *wa-me:* _https://wa.me/255756715126_
-┃⬡ *t-me:* _https://t.me/freditech_
+┃⬡ *t-me:* _https://t.me/Dullahmd_
 ┃
 ┃⬡MY bot Repos⬡
 ┃
@@ -79,7 +79,7 @@ router.get('/', async (req, res) => {
 ┃
 ┃⬡Support channels⬡
 ┃
-┃⬡ *WATSAPP:* _https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f_
+┃⬡ *WATSAPP:* _https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx_
 ┃⬡ *TELEGRAM:* _https://t.me/+u3zlb5y6OfxhOTdk_
 ┃
 ┃⬡ *©Copyright* _DULLAH-MD|CRAZYBOT
