@@ -60,10 +60,10 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 *_QR Code Connected*
-*_Made With by Dullah Md♻️_*
+*_Made With by CRAZY BOT♻️_*
 ______________________________________
 ╔════◇
-║ FOR ALL DULLAH MD BOTS
+║ FOR ALL CRAZY BOT V3
 ║ _Thanks for your support._
 ╚════════════════════════╝
 ╔═════◇
@@ -71,11 +71,11 @@ ______________________________________
 ║⬡ *Ytube:* _youtube.com/@herokuplatform_
 ║⬡ *Wa-me:* _https://wa.me/255716945971_
 ║⬡ *Wa-me:* _https://wa.me/255756715126_
-║⬡ *T-me:* _t.me/Dullah_
+║⬡ *T-me:* _t.me/CRAZY_
 ║
 ║⬡MY bot Repos⬡
 ║
-║⬡ *LUCKY_MD:* _https://github.com/abdallahsalimjuma/DULLAH_MD_
+║⬡ *LUCKY_MD:* _https://github.com/abdallahsalimjuma/CRAZY-BOT_
 ║⬡ *My Github:* _https://github.com/abdallahsalimjuma_
 ║
 ║⬡Support channels⬡
@@ -84,7 +84,7 @@ ______________________________________
 ║⬡ *WA GROUP:* _https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx_
 ║⬡ *TELEGRAM:* _https://t.me/+u3zlb5y6OfxhOTdk_
 ║
-║⬡ *©Copyright* _Dullah-Md|Mr Dullah_
+║⬡ *©Copyright* _CRAZY-BOT|Mr Dullah_
 ╚══════════════════════════════════╝
 _____________________________________
 	
