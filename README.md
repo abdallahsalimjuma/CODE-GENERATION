@@ -10,7 +10,7 @@
 <p align="center">
    <a href="https://github.com/abdallahsalimjuma/DULLAH-MD">
 </a>
- <p align="center"><img src="https://profile-counter.glitch.me/{Dullahmd}/count.svg" alt="kingfredie:: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{Dullahmd}/count.svg" alt="Dullahmd:: Visitor's Count" /></p>
 
 
 
